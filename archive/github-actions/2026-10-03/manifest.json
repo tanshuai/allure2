@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "repository": "tanshuai/allure2",
+  "repository_id": 465541052,
+  "date": "2026-10-03",
+  "source_sha": "71422190dd00bf23ed09a0a92cb878e5ece125d4",
+  "entries": [
+    {
+      "original_path": ".github/workflows/build.yaml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/workflows/build.yaml",
+      "source_blob_sha": "8269353291b3072a08ab5978d90c2e19c04589c7",
+      "sha256": "5b4f6ad27b08ce2ad78fdc5e1e37a1e43202a4911f99d9bc9d960192aea1dfa7",
+      "workflow_id": null,
+      "workflow_state_before": null,
+      "business_consumer": "Inherited upstream-only automation from diem/allure2",
+      "retirement_reason": "No current custom development/deployment consumer identified; owner-approved archival of inherited fork automation; preserve source and passive security alerts",
+      "config_finding_ids": [
+        "CFG-006"
+      ],
+      "secret_names": [],
+      "external_entrypoint_types": [],
+      "local_dependency_paths": [],
+      "restore": "Restore archived YAML and the listed dependency snapshots in a reviewed PR; validate runtime/action versions, consumers and write destinations before explicitly re-enabling the original workflow ID."
+    },
+    {
+      "original_path": ".github/workflows/gradle-wrapper-validation.yml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/workflows/gradle-wrapper-validation.yml",
+      "source_blob_sha": "405a2b3065920c697e7f63a9073dfb771d4ef388",
+      "sha256": "19c52a1c0f804832512a7f533270b3e6c133d24c6fde4d5b64305d129e6d7a3a",
+      "workflow_id": null,
+      "workflow_state_before": null,
+      "business_consumer": "Inherited upstream-only automation from diem/allure2",
+      "retirement_reason": "No current custom development/deployment consumer identified; owner-approved archival of inherited fork automation; preserve source and passive security alerts",
+      "config_finding_ids": [
+        "CFG-006"
+      ],
+      "secret_names": [],
+      "external_entrypoint_types": [],
+      "local_dependency_paths": [],
+      "restore": "Restore archived YAML and the listed dependency snapshots in a reviewed PR; validate runtime/action versions, consumers and write destinations before explicitly re-enabling the original workflow ID."
+    },
+    {
+      "original_path": ".github/workflows/labeler.yml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/workflows/labeler.yml",
+      "source_blob_sha": "956bf2f95b03ff3d9ad8910d49b3ef8ceb1aec25",
+      "sha256": "2a0c88b48c2634e71370aa65850183649187362120b7d09e248ee309a780cb51",
+      "workflow_id": null,
+      "workflow_state_before": null,
+      "business_consumer": "Inherited upstream-only automation from diem/allure2",
+      "retirement_reason": "No current custom development/deployment consumer identified; owner-approved archival of inherited fork automation; preserve source and passive security alerts",
+      "config_finding_ids": [],
+      "secret_names": [
+        "GITHUB_TOKEN"
+      ],
+      "external_entrypoint_types": [],
+      "local_dependency_paths": [],
+      "restore": "Restore archived YAML and the listed dependency snapshots in a reviewed PR; validate runtime/action versions, consumers and write destinations before explicitly re-enabling the original workflow ID."
+    },
+    {
+      "original_path": ".github/workflows/labels-verify.yml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/workflows/labels-verify.yml",
+      "source_blob_sha": "02b93de277e5065003e49c00045e057ee5156e58",
+      "sha256": "2820348edaec2d06779c67b44ffed69316ab6da4e901a737dfa4f539cadc2543",
+      "workflow_id": null,
+      "workflow_state_before": null,
+      "business_consumer": "Inherited upstream-only automation from diem/allure2",
+      "retirement_reason": "No current custom development/deployment consumer identified; owner-approved archival of inherited fork automation; preserve source and passive security alerts",
+      "config_finding_ids": [],
+      "secret_names": [],
+      "external_entrypoint_types": [],
+      "local_dependency_paths": [],
+      "restore": "Restore archived YAML and the listed dependency snapshots in a reviewed PR; validate runtime/action versions, consumers and write destinations before explicitly re-enabling the original workflow ID."
+    },
+    {
+      "original_path": ".github/workflows/publish.yml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/workflows/publish.yml",
+      "source_blob_sha": "9faad8ee7e1b3f6e155487e3369aaf0c204a8328",
+      "sha256": "8c4f047fe6be9b1f64de6c1e6880d9e3d8777b9107a41bc4f9dcbf8f49c94dc8",
+      "workflow_id": null,
+      "workflow_state_before": null,
+      "business_consumer": "Inherited upstream-only automation from diem/allure2",
+      "retirement_reason": "No current custom development/deployment consumer identified; owner-approved archival of inherited fork automation; preserve source and passive security alerts",
+      "config_finding_ids": [
+        "CFG-008"
+      ],
+      "secret_names": [
+        "GITHUB_TOKEN",
+        "GPG_KEY_ID",
+        "GPG_PASSPHRASE",
+        "GPG_PRIVATE_KEY",
+        "OSSRH_PASSWORD",
+        "OSSRH_USERNAME"
+      ],
+      "external_entrypoint_types": [],
+      "local_dependency_paths": [],
+      "restore": "Restore archived YAML and the listed dependency snapshots in a reviewed PR; validate runtime/action versions, consumers and write destinations before explicitly re-enabling the original workflow ID."
+    },
+    {
+      "original_path": ".github/workflows/release-draft.yml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/workflows/release-draft.yml",
+      "source_blob_sha": "15eadefe7298b00d4f612bd9a60ee37d687f3be0",
+      "sha256": "7dea71adce30bb1a099d9d9809abc9d6864268e0c8018cfff8c4b6199346c1a2",
+      "workflow_id": null,
+      "workflow_state_before": null,
+      "business_consumer": "Inherited upstream-only automation from diem/allure2",
+      "retirement_reason": "No current custom development/deployment consumer identified; owner-approved archival of inherited fork automation; preserve source and passive security alerts",
+      "config_finding_ids": [],
+      "secret_names": [
+        "GITHUB_TOKEN"
+      ],
+      "external_entrypoint_types": [],
+      "local_dependency_paths": [],
+      "restore": "Restore archived YAML and the listed dependency snapshots in a reviewed PR; validate runtime/action versions, consumers and write destinations before explicitly re-enabling the original workflow ID."
+    },
+    {
+      "original_path": ".github/workflows/release.yaml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/workflows/release.yaml",
+      "source_blob_sha": "8d7a24a45a56fe7a713860f1fac293016eeb85c6",
+      "sha256": "b510f6a897adbd877cd2736e1544ef4ca321999f0653f75c47b5301906ab6a89",
+      "workflow_id": null,
+      "workflow_state_before": null,
+      "business_consumer": "Inherited upstream-only automation from diem/allure2",
+      "retirement_reason": "No current custom development/deployment consumer identified; owner-approved archival of inherited fork automation; preserve source and passive security alerts",
+      "config_finding_ids": [],
+      "secret_names": [
+        "QAMETA_CI"
+      ],
+      "external_entrypoint_types": [
+        "workflow_dispatch"
+      ],
+      "local_dependency_paths": [],
+      "restore": "Restore archived YAML and the listed dependency snapshots in a reviewed PR; validate runtime/action versions, consumers and write destinations before explicitly re-enabling the original workflow ID."
+    }
+  ],
+  "code_and_dependency_snapshots": [
+    {
+      "original_path": ".github/dependabot.yml",
+      "archived_path": "archive/github-actions/2026-10-03/.github/dependabot.yml",
+      "source_blob_sha": "5b73b730c9705bb3ab68de7e7753cb06fccc27c0",
+      "sha256": "db64626ede8853169fdcade60525547d6a4c82b40e4173fdc88fbcd61c002c4e",
+      "original_retained": false,
+      "reason": "workflow-local/direct code or dependency configuration copied for recovery; shared source left in place"
+    },
+    {
+      "original_path": "gradle.properties",
+      "archived_path": "archive/github-actions/2026-10-03/gradle.properties",
+      "source_blob_sha": "9e9d4d5c7e2297c758cb8a102672aef1b378760e",
+      "sha256": "c07c3565812fe40a596e8e7fb48c018d8149cec1977eb5482aea7795b599ac31",
+      "original_retained": true,
+      "reason": "workflow-local/direct code or dependency configuration copied for recovery; shared source left in place"
+    }
+  ],
+  "upstream_preflight": {
+    "parent": "diem/allure2",
+    "source_sha": "71422190dd00bf23ed09a0a92cb878e5ece125d4",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "status": "identical",
+    "retained_runs": 0,
+    "semantic_note": "Current entrypoints reviewed individually; only inherited upstream CI/tests/releases/doc generators, no custom fork commits or live production consumer identified. No repository Actions enabling or passive alert changes."
+  },
+  "caller_check": {
+    "current_all_accessible_workflows": 286,
+    "remaining_reusable_callers": [],
+    "external_dispatch_note": "Declared dispatch/manual entrypoints recorded; entire retired source preserved. No dispatch APIs were invoked."
+  },
+  "passive_security_alerts": "No alert setting changed. Archived version-update YAML is no longer active configuration.",
+  "rollback": "Reviewed source restoration plus explicit workflow enablement; for unsafe cross-repository publishers establish an updated producer/consumer contract and guarded destination before restoring."
+}
